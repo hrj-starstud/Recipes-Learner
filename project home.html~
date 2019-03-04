@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<title><i>INDIAN RECIPES</i></title>
+</head>
+<body background="glitters.jpg">
+<p><b><u><font face="Comic Sans MS" color="red" size="10" align="center"> LEARN INDIAN RECIPES </font></u></b></p>
+<ul>
+<li class="current">
+</li>
+<a href="project home.html"> HOME</a>
+<li>
+<p><h4>SELECT CATEGORIES</p>
+<ul type="square">
+<li><a href="snacks.html">SNACKS</a></li><br>
+<li><a href="dinner recipies 1.html">VEGETARIAN DINNER DISHES</a></li><br>
+<li><a href="nimisha.html">DESSERTS</a></li><br>
+<li><a href="home.html">THANKING YOU!!!!!</a></li><br>
+
+<input type=button value="Go" onclick="goToNewPage(document.dropdown.list)"/>
+</ul>
+</body>
+</html>
